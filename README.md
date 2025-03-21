@@ -1,15 +1,15 @@
 
 # LINQ Query Syntax
 
-.NET9 C# application: **Linq-queries**  and modern techniques to C# 11.
+.NET9 C# application: **LINQ-Query**  and modern techniques to C# 11.
 
 ## Description
 
-This "Indexers" program is written in C# .NET 9 which allows you to use C# 12 language syntax.
+This "LINQ-Query" program is written in C# .NET 9 which allows you to use C# 12 language syntax.
 Here the program mainly demonstrates "LINQ Query Syntax" techniques, in another example 
 <a href="https://github.com/janluksoft/NET_LinqMethod">LINQ Method Syntax</a> techniques are presented.
 
-The **Linq-query** program is a C# demonstration project that illustrates how to use SQL-like 
+The **Linq-Query** program is a C# demonstration project that illustrates how to use SQL-like 
 LINQ query syntax combined with pattern matching to process a collection of objects. 
 The application features three types of flying machines—**JetPlane**, **Helicopter**, 
 and **HotAirBalloon**—which all inherit from the abstract base class **FlyingMachine**. 
